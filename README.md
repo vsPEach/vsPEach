@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Welcome to my Github profile
 
 My name is Nikita.
