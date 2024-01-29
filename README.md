@@ -4,7 +4,7 @@ My name is Nikita!
 
 I'm a Golang Developer working at Wildberries
 
-Currently interested in: Rust
+Currently interested in: Rust, Unity gamedev
 
 ## My stack
 
